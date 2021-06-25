@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189476223858",
+    "project_id": "collegesystem-3534c",
+    "storage_bucket": "collegesystem-3534c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189476223858:android:827944db51211fb8497beb",
+        "android_client_info": {
+          "package_name": "com.srilankatrainivmm.flutter_app_03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189476223858-jfrimtlqqasgqlu8ljvfahbooqjkoolm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVqdLwM8KJ301IT6yo5-4L-dTIYwgCU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189476223858-jfrimtlqqasgqlu8ljvfahbooqjkoolm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
